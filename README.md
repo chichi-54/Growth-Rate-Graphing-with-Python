@@ -2,7 +2,7 @@
 
 Welcome to the **Hotdog Graph Project**, a fun and interactive data visualization that answers one of humanity’s greatest questions: *“How many hotdogs did they eat?”*  
 
-This project uses **Python**, **Matplotlib**, and **Pandas** (or any visualization library you used) to graph and analyze data from real or simulated hotdog-eating contests. Perfect for teaching students about **data representation**, **graph interpretation**, and **basic coding concepts** in a visual, engaging way.
+This project uses **Python**, **tkinter** and **Matplotlib** to graph and analyze data from real or simulated hotdog-eating contests. Perfect for teaching students about **data representation**, **graph interpretation**, and **basic coding concepts** in a visual, engaging way.
 
 ---
 
