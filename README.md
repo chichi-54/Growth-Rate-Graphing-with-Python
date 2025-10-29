@@ -1,6 +1,6 @@
 # 🌭 How Many Hotdogs Did They Eat? — The Hotdog Graph Project
 
-<img width="1700" height="1202" alt="Image" src="https://github.com/user-attachments/assets/a7d9785e-b05e-4560-bf78-655f41b825a2" />
+<img width="1700" height="1120" alt="Image" src="https://github.com/user-attachments/assets/a7d9785e-b05e-4560-bf78-655f41b825a2" />
 
 Welcome to the **Hotdog Graph Project**, a fun and interactive data visualization that answers one of humanity’s greatest questions: *“How many hotdogs did they eat?”*  
 
