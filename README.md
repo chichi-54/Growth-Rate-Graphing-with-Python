@@ -1,5 +1,7 @@
 # 🌭 How Many Hotdogs Did They Eat? — The Hotdog Graph Project
 
+<img width="2500" height="1768" alt="Image" src="https://github.com/user-attachments/assets/a7d9785e-b05e-4560-bf78-655f41b825a2" />
+
 Welcome to the **Hotdog Graph Project**, a fun and interactive data visualization that answers one of humanity’s greatest questions: *“How many hotdogs did they eat?”*  
 
 This project uses **Python**, **tkinter** and **Matplotlib** to graph and analyze data from real or simulated hotdog-eating contests. Perfect for teaching students about **data representation**, **graph interpretation**, and **basic coding concepts** in a visual, engaging way.
